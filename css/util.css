@@ -7,7 +7,7 @@
 .btn{
     padding: 5px 10px;
     color: white;
-    background-color: var(--main-bg-color);
+    background-color: red ;
     border: 2px solid white;
     border-radius: 7px;
     cursor: pointer;
